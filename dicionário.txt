@@ -1,0 +1,74 @@
+// FORMA MAIS SIMPLIFICADA DO MAIN2
+// if(numeroUsuario > 0){
+//     console.log("O numero é positivo")
+// }
+// else if (numeroUsuario < 0){
+//     console.log("O numero é negativo")
+// }
+// else
+//     console.log("O numero é 0")
+
+// string = textos
+// boolean = verdadeiro/falso
+// float = numeros 'quebrados' com virgulas 
+// int = numeros inteiros
+// cntrl + ; (Comentario)
+
+// o simbolo "+" quando usado com texto a função dele é "concatenar"
+
+// = é o operador de atribuição
+// == é o operador de comparação (igualdade)
+// > é o operador (maior que)
+// < é o operador (menor que)
+// >= é o operador (maior ou igual que)
+// <= é o operador (menor ou igual que)
+
+// () = agrupamento
+// {} = bloco de código
+// [] = array (chaves)
+
+// While (Enquanto) = Ele valida antes e faz a conta depois
+
+//Dowhile ()
+
+//back-end - É a lógica, é ter um problema e ter que resolver ele, normalmente aplicado em sistemas
+
+//F12 no "arquivo" tml, abre uma aba de "comandos"
+
+//! + enter, abre um código, o padrão do sistema sempre será ingles, sendo assim, na segunda linha, depois de lang, colocar : pt-br
+
+//Na linha 7, após title, oq vc colocar será o titúlo da pagina
+
+//Tudo q está dentro de "HEAD
+
+//Tudo q eu escrevo dentro de "BODY" eu consigo vizualizar,ou seja, "BODY" é o corpo da pagina;
+n da pra colocar mais de um espaço entre escritas dentro de "BODY";
+sempre q eu quiser quebrar a linha, ou escrever uma coisa embaixo da outra, no final da frase, preciso
+colocar <br>, q ai terá queda de texto, quanto mais <br>, mais vezes o texto vai "quebrar", descer
+
+//<H1>  <H1>, Tudo q for escrito entre eles, é um titulo, pode ser H2, H3, H4 em diante,
+se tornando subtitulos
+
+//Dentro de <p>  <p>, tudo q estiver ali são paragrafos, livre para qualquer escrita
+
+//Alt + Z é um comando usado para quebrar linhas de textos e deixar mais bonito a pagina
+
+// INPUT, ele n tem fechamento, dentro de input tem type, ele basicamente manda um texto (comando)
+
+//Ao selecionar um comando dando 3 cliques, segure Alt + tecla pra cima ou para baixo,
+para movimentar o comando para qualquer lugar da pagina
+
+//Ctrl + espaço dentro de Type, aparece as opções disponiveís, dentro da situação
+
+//Ctrl + Alt + seta para baixo : copia oq esta selecionado para baixo
+
+//Diferença entre datetime e datetime-local é que
+
+//ID - É um indentificador único para um elemento
+
+//var, let e const
+
+// let = Usar somente para uma parte do código, uma variavel dentro de uma função, dentro de um escopo, dentro de um if, de um for
+
+// const = variaveis que não podem ser alteradas, onde muda-se somente em um lugar e muda no sistema todo, SOMENTE EU posso mudar
+
